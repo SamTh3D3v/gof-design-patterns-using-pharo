@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PatternsInPharo-IteratorPattern",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aggregate",
+		"currentIndex"
+	],
+	"name" : "Iterator",
+	"type" : "normal"
+}
