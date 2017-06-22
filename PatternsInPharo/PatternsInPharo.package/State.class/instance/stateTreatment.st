@@ -1,0 +1,3 @@
+operations
+stateTreatment
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+operations
+getNextState
+	self subclassResponsibility

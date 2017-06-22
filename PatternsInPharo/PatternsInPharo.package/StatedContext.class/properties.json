@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PatternsInPharo-StatePattern",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentState"
+	],
+	"name" : "StatedContext",
+	"type" : "normal"
+}
