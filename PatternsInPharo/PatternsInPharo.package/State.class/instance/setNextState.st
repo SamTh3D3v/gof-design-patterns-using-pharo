@@ -1,3 +1,3 @@
 operations
-getNextState
+setNextState
 	self subclassResponsibility

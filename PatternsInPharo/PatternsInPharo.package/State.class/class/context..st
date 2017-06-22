@@ -1,3 +1,5 @@
 instance creation
 context: aStatedContext 
-	self context: aStatedContext
+	^self basicNew 
+	initialize:aStatedContext
+	yourself

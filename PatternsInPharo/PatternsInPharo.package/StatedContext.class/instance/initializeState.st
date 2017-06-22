@@ -1,4 +1,4 @@
 initialization
 initializeState
-	currentState := LockedState new.
+	currentState := LockedState context: self.
 	self initialize
